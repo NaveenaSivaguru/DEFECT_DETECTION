@@ -41,14 +41,3 @@ Each task folder contains a detailed README with instructions on setup, executio
 ## Acknowledgments
 
 Special thanks to **Dhvani AI** for conducting this hackathon and providing the datasets and problem statements.
-
----
-
-## Contact and Queries
-
-Feel free to raise issues for any questions or clarifications regarding the code or methodology.
-
----
-
-*Good luck and happy coding!*
-
