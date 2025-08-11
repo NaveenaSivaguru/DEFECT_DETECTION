@@ -1,3 +1,5 @@
+## DETECTING DEFECTS AND CLASSIFYING THE DEFECTS
+
 ## Flowchart
 <p align="center">
   <img src="DEFECT_DETECTION_FLOWCHART.png" width="200">
